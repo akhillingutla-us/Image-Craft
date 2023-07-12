@@ -121,7 +121,7 @@ ImageCraft is a cutting-edge photo editing platform that offers advanced imaging
                     
 # **Libraries**
 
-*PIL
-*NumPy
-*Matplotlib
-*PyEdgeEval
+* PIL
+* NumPy
+* Matplotlib
+* PyEdgeEval
