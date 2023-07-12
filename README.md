@@ -1,7 +1,7 @@
 # **Summary**
 
 
-ImageCraft is a cutting-edge photo editing platform that offers advanced imaging solutions:
+ImageCraft is a easy-to-make and easy-to-use photo editing platform that offers advanced imaging solutions:
     
     
 * Developed an interactive, Python-based application for streamlined photo editing
